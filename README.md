@@ -2,4 +2,4 @@
 My first GitHub repo!
 Hello Odin!
 
-I am trying to follow theOdinProject git course
+I am revisitting the OdinProject's git course after a very long time
